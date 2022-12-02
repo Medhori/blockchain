@@ -5,7 +5,7 @@ A microcosm where virtual miners earn cryptocurrency and exchange messages and t
 This program requires Java to compile and run.
 
 ## Credits
-**Author:** Mo Balić - [mobalic](https://github.com/mobalic)
+**Author:** Mo Balti - [mobalti](https://github.com/mobalti)
 
 This program is based on Blockchain project on JetBrains Academy.
 
